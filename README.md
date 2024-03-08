@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋 and Welcome on my ✨ profile ✨
+
+I am sofiane, currently a student at `42 Lyon [FR]`
+- ⚡ Learning mainly learns `C`
 
 <!--
 **Isxfiane/Isxfiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
